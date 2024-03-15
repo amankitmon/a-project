@@ -1,2 +1,1 @@
-# a-project
-for couresra
+This is my project for coursera 
